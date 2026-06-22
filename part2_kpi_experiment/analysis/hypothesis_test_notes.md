@@ -36,3 +36,33 @@ One-tailed hypothesis test
 ## Business Decision Connection
 
 The result of this test will be used to determine whether the new onboarding campaign should be launched to all users. A statistically significant improvement in Paid Conversion Rate would support a launch recommendation, subject to guardrail metric evaluation.
+
+## Test Inputs
+
+Control Users: 693
+
+Treatment Users: 715
+
+Control Conversions: 22
+
+Treatment Conversions: 50
+
+Control Conversion Rate: 3.17%
+
+Treatment Conversion Rate: 6.99%
+
+## Results
+
+The Treatment group achieved a Paid Conversion Rate of 6.99% compared to 3.17% for the Control group.
+
+This represents an increase of approximately 3.82 percentage points.
+
+## Business Interpretation
+
+The Treatment onboarding experience substantially improved Paid Conversion Rate compared to the Control experience.
+
+The experiment provides evidence that the new onboarding campaign is more effective at converting users into paying customers.
+
+## Decision Rule
+
+If the treatment group demonstrates a statistically and practically meaningful improvement in Paid Conversion Rate without causing unacceptable deterioration in guardrail metrics, the treatment should be considered for launch.
