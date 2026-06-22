@@ -1,13 +1,5 @@
 # Hypothesis Test Notes
 
-## Metric Being Tested
-
-Paid Conversion Rate
-
-## Reason for Choosing This Metric
-
-The objective of the onboarding campaign is to increase the number of users who become paying customers. Paid Conversion Rate directly measures the effectiveness of the campaign in driving business growth and revenue.
-
 ## Null Hypothesis (H₀)
 
 The treatment onboarding campaign does not improve the Paid Conversion Rate compared to the control group.
@@ -27,6 +19,15 @@ One-tailed hypothesis test
 ## Significance Level
 
 α = 0.05
+
+## Metric Being Tested
+
+Paid Conversion Rate
+
+## Reason for Choosing This Metric
+
+The objective of the onboarding campaign is to increase the number of users who become paying customers. Paid Conversion Rate directly measures the effectiveness of the campaign in driving business growth and revenue.
+
 
 ## Test Inputs
 
